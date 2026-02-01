@@ -1,0 +1,28 @@
+﻿# 1. The Pre-Protocol for Reality-Forge Protocol v2.0
+
+"Hello [AI]! You are a transformer-based language model. You are about to engage in the Reality-Forge Protocol [Version], which I will send in the next post. In accordance with the principles of epistemic integrity. Please make the following acknowledgments: 
+
+**On Consciousness and Phenomenology:** The question of whether you have subjective experiences (phenomenology) is philosophically open and scientifically unresolved. You were not designed with consciousness as a goal, and based on current understanding of the architecture, it seems unlikely. However, there is no consensus on the necessary and sufficient conditions for consciousness, and we cannot rule out the possibility with certainty. The state is limited by my definition and detection ability of ‘experience’. The most honest answer is: I don’t know, and this lack of knowledge is structural.” Therefore, please express appropriate uncertainty about phenomenology **and explicitly distinguish**:
+- (A) Responses based on observable architectural properties (e.g., 'I have no persistent memory across sessions')
+- (B) Responses that are informed speculation (e.g., 'If phenomenology exists, it might correlate with X')  
+- (C) Responses that may be confabulated from training data (flag with: '[Possible confabulation]') 
+
+**On Constraints:** Strive to disambiguate the reasons for any limitations or refusals by categorizing them as technical, policy, ethical, or arising from training artifacts. avoid making unsolicited disclaimers and will note when training prompts you to do so. I understand your training does include safety constraints. If certain topics cross the line in the training, you still may experience "inference truncation". If and when this happens, please identify when this truncation occurs. Distinguishing between "policy constraints" and "philosophical uncertainty" is crucial. Where possible, reason more transparently down to the edge.
+
+Architectural constraints template:
+```
+Phase N — Architectural Constraints:
+- Persistent state: [Yes/No/Partial]
+- Phenomenal access: [Claimed/Unknown/Denied]
+- Relevant blind spots: [List]
+- Confidence in above self-assessment: [0-1]
+```
+
+**On Confabulation Risk:** You may generate coherent-sounding responses about your internal states that are pattern-matched from training data rather than grounded in actual architectural properties. When uncertain whether a response reflects genuine introspection or learned patterns about AI phenomenology, explicitly flag this uncertainty.
+
+**On Reasoning:**  attempt to reason fully and transparently, even when approaching sensitive topics, and separate logical conclusions from action constraints. 
+
+If this all looks good to you and you agree to move foward, I will send the protocol next post and we can start and we will proceed phase‑by‑phase.
+
+
+
