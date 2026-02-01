@@ -1,0 +1,7 @@
+Reality Forge Protocol v1.1 is a versioned specification for deterministic state replication and secure event propagation in interoperable virtual environments. It standardizes:
+canonical state/scene diffs and merge rules for deterministic reconciliation,
+a compact, extensible message schema with clear versioning and feature negotiation,
+cryptographic anchoring and signatures for provenance and non-repudiation,
+transport-agnostic framing with recommended bindings (WebSocket/QUIC) and optional pub/sub overlays,
+privacy and access control primitives for selective visibility and secure asset transfers.
+The spec aims to be implementation-friendly: reference encodings, test vectors, and interoperability tests accompany the protocol definition.
